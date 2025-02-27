@@ -1,0 +1,246 @@
+2024-12-20 18:47:41,727:INFO:Successfully loaded face encodings.
+2024-12-20 18:47:43,805:INFO:Started video capture.
+2024-12-20 18:47:44,238:INFO:Attendance marked for ABHIRAM.JPG
+2024-12-20 18:47:51,204:INFO:Video capture ended.
+2024-12-20 18:47:51,207:INFO:Attendance file updated.
+2024-12-20 18:55:29,444:INFO:Successfully loaded face encodings.
+2024-12-20 18:55:31,229:INFO:Started video capture.
+2024-12-20 18:55:31,660:INFO:Attendance marked for ANKIT.JPG
+2024-12-20 18:55:37,434:INFO:Attendance marked for ABHIRAM.JPG
+2024-12-20 18:55:44,581:INFO:Video capture ended.
+2024-12-20 18:55:44,585:INFO:Attendance file updated.
+2024-12-20 18:56:09,420:INFO:Successfully loaded face encodings.
+2024-12-20 18:56:11,216:INFO:Started video capture.
+2024-12-20 18:56:11,962:INFO:Attendance marked for ABHIRAM.JPG
+2024-12-20 18:56:20,874:INFO:Video capture ended.
+2024-12-20 18:56:20,877:INFO:Attendance file updated.
+2024-12-21 13:27:09,783:INFO:Successfully loaded face encodings.
+2024-12-21 13:27:13,035:INFO:Started video capture.
+2024-12-21 13:27:16,279:INFO:Attendance marked for ABHIRAM.JPG
+2024-12-21 13:27:23,160:INFO:Video capture ended.
+2024-12-21 13:27:23,173:INFO:Attendance file updated.
+2024-12-21 13:40:11,445:INFO:Successfully loaded face encodings.
+2024-12-21 13:40:16,148:INFO:Started video capture.
+2024-12-21 13:40:18,311:INFO:Attendance marked for ABHIRAM.JPG
+2025-01-22 10:38:27,853:INFO:Successfully loaded face encodings.
+2025-01-22 10:38:33,151:INFO:Started video capture.
+2025-01-22 10:38:34,169:INFO:Attendance marked for ABHIRAM.JPG
+2025-01-22 10:38:44,994:INFO:Video capture ended.
+2025-01-22 10:38:45,003:INFO:Attendance file updated.
+2025-01-22 10:47:50,608:INFO:Successfully loaded face encodings.
+2025-01-22 10:47:55,649:INFO:Started video capture.
+2025-01-22 10:47:57,111:INFO:Attendance marked for ABHIRAM.JPG
+2025-01-22 10:47:57,113:INFO:Attendance marked for ANAND.JPG
+2025-01-22 10:48:15,831:INFO:Video capture ended.
+2025-01-22 10:48:15,837:INFO:Attendance file updated.
+2025-01-22 10:54:00,308:INFO:Successfully loaded face encodings.
+2025-01-22 10:54:05,608:INFO:Started video capture.
+2025-01-22 10:54:07,037:INFO:Attendance marked for ANAND.JPG
+2025-01-22 10:54:07,038:INFO:Attendance marked for ABHIRAM.JPG
+2025-01-22 10:54:14,732:INFO:Video capture ended.
+2025-01-22 10:54:14,738:INFO:Attendance file updated.
+2025-01-23 11:43:20,114:INFO:Successfully loaded face encodings.
+2025-01-23 11:43:24,850:INFO:Started video capture.
+2025-01-23 11:43:26,717:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-23 11:43:27,165:INFO:Video capture ended.
+2025-01-23 11:43:27,171:INFO:Attendance file updated.
+2025-01-23 11:45:46,748:INFO:Successfully loaded face encodings.
+2025-01-23 11:45:51,056:INFO:Started video capture.
+2025-01-23 11:45:52,000:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-23 11:45:52,310:INFO:Video capture ended.
+2025-01-23 11:45:52,316:INFO:Attendance file updated.
+2025-01-23 11:47:26,638:INFO:Successfully loaded face encodings.
+2025-01-23 11:47:31,015:INFO:Started video capture.
+2025-01-23 11:47:31,943:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-23 11:47:32,250:INFO:Video capture ended.
+2025-01-23 11:47:32,256:INFO:Attendance file updated.
+2025-01-23 11:49:58,957:INFO:Successfully loaded face encodings.
+2025-01-23 11:50:03,589:INFO:Started video capture.
+2025-01-23 11:50:04,549:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-23 11:50:04,885:INFO:Video capture ended.
+2025-01-23 11:50:04,890:INFO:Attendance file updated.
+2025-01-23 11:51:19,208:INFO:Successfully loaded face encodings.
+2025-01-23 11:51:23,288:INFO:Started video capture.
+2025-01-23 11:51:24,189:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-23 11:51:24,517:INFO:Video capture ended.
+2025-01-23 11:51:24,522:INFO:Attendance file updated.
+2025-01-24 08:40:07,666:INFO:Successfully loaded face encodings.
+2025-01-24 08:40:11,776:INFO:Started video capture.
+2025-01-24 08:40:12,913:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-24 08:40:13,247:INFO:Video capture ended.
+2025-01-24 08:40:13,256:INFO:Attendance file updated.
+2025-01-24 08:46:48,677:INFO:Successfully loaded face encodings.
+2025-01-24 08:46:53,032:INFO:Started video capture.
+2025-01-24 08:46:53,984:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-24 08:46:54,303:INFO:Video capture ended.
+2025-01-24 08:46:54,410:INFO:Attendance file updated.
+2025-01-24 08:48:59,616:INFO:Successfully loaded face encodings.
+2025-01-24 08:49:04,143:INFO:Started video capture.
+2025-01-24 08:49:05,268:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-24 08:49:05,693:INFO:Video capture ended.
+2025-01-24 08:49:05,747:INFO:Attendance file updated.
+2025-01-24 08:51:49,028:INFO:Successfully loaded face encodings.
+2025-01-24 08:51:53,062:INFO:Started video capture.
+2025-01-24 08:51:55,290:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-24 08:51:55,707:INFO:Video capture ended.
+2025-01-24 08:51:55,758:INFO:Attendance file updated.
+2025-01-24 08:53:20,375:INFO:Successfully loaded face encodings.
+2025-01-24 08:53:24,676:INFO:Started video capture.
+2025-01-24 08:53:25,566:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-24 08:53:25,874:INFO:Video capture ended.
+2025-01-24 08:53:25,910:INFO:Attendance file updated.
+2025-01-24 08:54:29,907:INFO:Successfully loaded face encodings.
+2025-01-24 08:54:34,072:INFO:Started video capture.
+2025-01-24 08:54:34,988:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-24 08:54:35,306:INFO:Video capture ended.
+2025-01-24 08:54:35,364:INFO:Attendance file updated.
+2025-01-24 08:54:55,572:INFO:Successfully loaded face encodings.
+2025-01-24 08:54:59,661:INFO:Started video capture.
+2025-01-24 08:55:00,525:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-24 08:55:00,833:INFO:Video capture ended.
+2025-01-24 08:55:00,891:INFO:Attendance file updated.
+2025-01-24 08:56:03,091:INFO:Successfully loaded face encodings.
+2025-01-24 08:56:07,475:INFO:Started video capture.
+2025-01-24 08:56:08,341:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-24 08:56:08,665:INFO:Video capture ended.
+2025-01-24 08:56:08,704:INFO:Attendance file updated.
+2025-01-31 18:45:54,730:INFO:Successfully loaded face encodings.
+2025-01-31 18:46:36,060:INFO:Successfully loaded face encodings.
+2025-01-31 18:46:49,814:INFO:Successfully loaded face encodings.
+2025-01-31 19:25:37,349:INFO:Successfully loaded face encodings.
+2025-01-31 19:25:37,350:INFO:Encoding faces from the images directory...
+2025-01-31 19:25:37,350:INFO:Face encoding completed.
+2025-01-31 19:25:37,351:INFO:Starting face detection and attendance marking...
+2025-01-31 19:35:48,698:INFO:Successfully loaded face encodings.
+2025-01-31 19:35:48,698:INFO:Encoding faces from the images directory...
+2025-01-31 19:35:51,358:INFO:Face encoding completed.
+2025-01-31 19:35:51,359:INFO:Starting face detection and attendance marking...
+2025-01-31 19:36:15,715:INFO:Started video capture.
+2025-01-31 19:36:17,313:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-31 19:36:17,629:INFO:Video capture ended.
+2025-01-31 19:36:17,660:INFO:Attendance file updated.
+2025-01-31 19:36:17,661:INFO:Face detection and attendance marking completed.
+2025-01-31 19:36:17,711:INFO:Attendance file updated.
+2025-01-31 19:38:50,622:INFO:Successfully loaded face encodings.
+2025-01-31 19:38:50,622:INFO:Encoding faces from the images directory...
+2025-01-31 19:38:52,711:INFO:Face encoding completed.
+2025-01-31 19:38:52,711:INFO:Starting face detection and attendance marking...
+2025-01-31 19:39:16,680:INFO:Started video capture.
+2025-01-31 19:39:18,259:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-31 19:39:18,584:INFO:Video capture ended.
+2025-01-31 19:39:18,629:INFO:Attendance file updated.
+2025-01-31 19:39:18,630:INFO:Face detection and attendance marking completed.
+2025-01-31 19:39:18,681:INFO:Attendance file updated.
+2025-01-31 19:46:14,950:INFO:Successfully loaded face encodings.
+2025-01-31 19:46:14,951:INFO:Encoding faces from the images directory...
+2025-01-31 19:46:17,173:INFO:Face encoding completed.
+2025-01-31 19:46:17,174:INFO:Starting face detection and attendance marking...
+2025-01-31 20:37:32,094:INFO:Started video capture.
+2025-01-31 20:37:32,163:ERROR:Failed to capture frame from webcam.
+2025-01-31 20:37:32,168:INFO:Video capture ended.
+2025-01-31 20:37:32,233:INFO:Attendance file updated.
+2025-01-31 20:37:32,233:INFO:Face detection and attendance marking completed.
+2025-01-31 20:37:32,308:INFO:Attendance file updated.
+2025-01-31 20:52:12,714:INFO:Successfully loaded face encodings.
+2025-01-31 20:52:12,714:INFO:Encoding faces from the images directory...
+2025-01-31 20:52:13,720:INFO:Face encoding completed.
+2025-01-31 20:52:13,721:INFO:Starting face detection and attendance marking...
+2025-01-31 20:52:27,407:INFO:Started video capture.
+2025-01-31 20:52:28,302:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-31 20:52:28,614:INFO:Video capture ended.
+2025-01-31 20:52:28,666:INFO:Attendance file updated.
+2025-01-31 20:52:28,666:INFO:Face detection and attendance marking completed.
+2025-01-31 20:52:28,709:INFO:Attendance file updated.
+2025-01-31 21:14:12,814:INFO:Successfully loaded face encodings.
+2025-01-31 21:14:25,986:INFO:Started video capture.
+2025-01-31 21:14:26,245:ERROR:Error during face recognition: name 'face_recognition' is not defined
+2025-01-31 21:14:26,564:INFO:Video capture ended.
+2025-01-31 21:14:26,632:INFO:Attendance file updated.
+2025-01-31 21:19:54,528:INFO:Successfully loaded face encodings.
+2025-01-31 21:21:29,823:INFO:Successfully loaded face encodings.
+2025-01-31 21:21:29,824:INFO:Starting face encoding from the images directory.
+2025-01-31 21:21:30,999:INFO:Face encoding completed.
+2025-01-31 21:21:30,999:INFO:Starting face detection and attendance marking.
+2025-01-31 21:21:44,650:INFO:Started video capture.
+2025-01-31 21:21:45,563:ERROR:Error during face recognition: attempt to get argmin of an empty sequence
+2025-01-31 21:21:45,879:INFO:Video capture ended.
+2025-01-31 21:21:45,924:INFO:Attendance file updated.
+2025-01-31 21:21:45,925:INFO:Face detection and attendance marking completed.
+2025-01-31 21:21:45,962:INFO:Attendance file updated.
+2025-01-31 21:23:25,757:INFO:Successfully loaded face encodings.
+2025-01-31 21:23:40,103:INFO:Started video capture.
+2025-01-31 21:23:40,459:ERROR:Error during face recognition: name 'face_recognition' is not defined
+2025-01-31 21:23:40,774:INFO:Video capture ended.
+2025-01-31 21:23:40,827:INFO:Created new attendance file: Attendance.xlsx
+2025-01-31 21:23:40,842:INFO:Attendance saved to Excel file
+2025-01-31 21:23:40,842:INFO:Attendance updated.
+2025-01-31 21:23:40,843:INFO:Attendance file updated.
+2025-01-31 21:26:46,602:INFO:Successfully loaded face encodings.
+2025-01-31 21:26:52,906:INFO:Started video capture.
+2025-01-31 21:26:54,025:INFO:Attendance marked for IMAGES
+2025-01-31 21:27:02,943:INFO:Video capture ended.
+2025-01-31 21:27:02,967:INFO:Attendance file updated.
+2025-01-31 21:35:46,044:INFO:Successfully loaded face encodings.
+2025-01-31 21:35:48,452:INFO:Started video capture.
+2025-01-31 21:35:49,058:INFO:Attendance marked for IMAGES
+2025-01-31 21:35:54,576:INFO:Video capture ended.
+2025-01-31 21:35:54,582:INFO:Attendance file updated.
+2025-01-31 21:37:06,258:INFO:Successfully loaded face encodings.
+2025-01-31 21:37:08,655:INFO:Started video capture.
+2025-01-31 21:37:09,232:INFO:Attendance marked for IMAGES
+2025-01-31 21:37:12,280:INFO:Video capture ended.
+2025-01-31 21:37:12,284:INFO:Attendance file updated.
+2025-01-31 21:38:46,310:INFO:Successfully loaded face encodings.
+2025-01-31 21:38:48,723:INFO:Started video capture.
+2025-01-31 21:38:49,299:INFO:Attendance marked for IMAGES
+2025-01-31 21:38:52,718:INFO:Video capture ended.
+2025-01-31 21:38:52,721:INFO:Attendance file updated.
+2025-01-31 21:40:11,024:INFO:Successfully loaded face encodings.
+2025-01-31 21:40:13,410:INFO:Started video capture.
+2025-01-31 21:40:13,987:INFO:Attendance marked for IMAGES
+2025-01-31 21:40:16,498:INFO:Video capture ended.
+2025-01-31 21:40:16,502:INFO:Attendance file updated.
+2025-01-31 21:50:35,800:ERROR:Error loading encodings.pkl: [Errno 2] No such file or directory: 'encodings.pkl'
+2025-01-31 21:50:38,248:INFO:Started video capture.
+2025-01-31 21:50:38,843:ERROR:Error during face recognition: name 'data' is not defined
+2025-01-31 21:50:39,114:INFO:Video capture ended.
+2025-01-31 21:50:39,116:INFO:Attendance file updated.
+2025-01-31 21:55:25,033:INFO:Successfully loaded face encodings.
+2025-01-31 21:55:27,430:INFO:Started video capture.
+2025-01-31 21:55:28,008:INFO:Attendance marked for ABHIRAM
+2025-01-31 21:55:33,235:INFO:Video capture ended.
+2025-01-31 21:55:33,238:INFO:Attendance file updated.
+2025-01-31 22:00:23,104:INFO:Successfully loaded face encodings.
+2025-01-31 22:00:25,872:INFO:Started video capture.
+2025-01-31 22:00:26,753:INFO:Attendance marked for ABHIRAM
+2025-01-31 22:00:26,754:INFO:Attendance marked for ANKIT
+2025-01-31 22:00:30,772:INFO:Video capture ended.
+2025-01-31 22:00:30,775:INFO:Attendance file updated.
+2025-01-31 22:02:06,267:INFO:Successfully loaded face encodings.
+2025-01-31 22:02:09,133:INFO:Started video capture.
+2025-01-31 22:02:09,913:INFO:Attendance marked for ABHIRAM
+2025-01-31 22:02:13,518:INFO:Video capture ended.
+2025-01-31 22:02:13,522:INFO:Attendance file updated.
+2025-02-01 08:38:15,826:INFO:Successfully loaded face encodings.
+2025-02-01 08:38:23,188:INFO:Started video capture.
+2025-02-01 08:38:24,374:INFO:Attendance marked for ABHIRAM
+2025-02-01 08:38:28,635:INFO:Video capture ended.
+2025-02-01 08:38:28,644:INFO:Attendance file updated.
+2025-02-01 13:00:08,316:INFO:Successfully loaded face encodings.
+2025-02-01 13:00:17,216:INFO:Started video capture.
+2025-02-01 13:00:22,266:INFO:Attendance marked for ABHIRAM
+2025-02-01 13:00:56,059:INFO:Video capture ended.
+2025-02-01 13:00:56,084:INFO:Attendance file updated.
+2025-02-20 19:10:29,628:INFO:Successfully loaded face encodings.
+2025-02-20 19:10:37,015:INFO:Started video capture.
+2025-02-20 19:10:38,083:INFO:Attendance marked for ABHIRAM
+2025-02-20 19:10:54,379:INFO:Attendance marked for ANAND
+2025-02-20 19:12:43,652:INFO:Successfully loaded face encodings.
+2025-02-20 19:12:50,692:INFO:Started video capture.
+2025-02-20 19:12:51,630:INFO:Attendance marked for ABHIRAM
+2025-02-20 19:20:11,284:INFO:Successfully loaded face encodings.
+2025-02-20 19:20:18,630:INFO:Started video capture.
+2025-02-20 19:20:19,592:INFO:Attendance marked for ABHIRAM
+2025-02-20 19:21:00,952:INFO:Successfully loaded face encodings.
+2025-02-20 19:21:07,828:INFO:Started video capture.
+2025-02-20 19:21:08,806:INFO:Attendance marked for ABHIRAM
