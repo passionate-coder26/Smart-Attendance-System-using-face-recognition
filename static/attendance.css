@@ -1,0 +1,79 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #2f4f4f;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+#heading{
+    text-align: center; 
+    padding: 20px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.section {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
+}
+.section h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.section input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.section button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.section button.clear {
+    background-color: #0000ff;
+    color: white;
+}
+.section button.take-images, .section button.save-profile, .section button.take-attendance {
+    background-color: #00bfff;
+    color: black;
+}
+.section button.quit {
+    background-color: #0000ff;
+    color: white;
+    justify-content:end;
+}
+.instructions {
+    text-align: center;
+    margin: 10px 0;
+}
+.attendance-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.attendance-table th, .attendance-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}

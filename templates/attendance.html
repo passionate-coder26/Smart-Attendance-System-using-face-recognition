@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='attendance.css') }}">
+    <script>
+        function takeAttendance() {
+            // Send a POST request to /take-attendance route when "Take Attendance" button is clicked
+            fetch('/take-attendance', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    alert(data.message); // Show the response message in an alert
+                    document.getElementById('attendance-status').innerText = data.message; // Display message on the page
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                    alert("An error occurred while taking attendance.");
+                });
+        }
+    </script>
+</head>
+<body>
+    <h1 id="heading">Mark Your Attendance</h1>
+    <div class="container">
+        <div class="section">
+            <h2>Register New Student</h2>
+            <label for="student-id">Enter ID</label>
+            <input type="text" id="student-id" name="student-id">
+            <label for="student-name">Enter Name</label>
+            <input type="text" id="student-name" name="student-name">
+            <button class="clear">Submit</button>
+            <div class="instructions">
+                Follow the steps...<br>
+                1) Take Images <br>
+                2) Save Profile
+            </div>
+            <form action="/take-attendance" method="post">
+                <button type="submit" class="take-images">Take Attendance</button>
+            </form>
+            <button class="save-profile">Save Profile</button>
+            <p>Total Registrations: 1</p>
+        </div>
+        <div class="section">
+            <h2>Mark Student's Attendance</h2>
+            <button class="take-attendance" onclick="takeAttendance()">Take Attendance</button> <!-- Updated Button -->
+            <br><br>
+            <img id="video-stream" src="{{ url_for('video_feed') }}" width="640" height="480"> <!-- Webcam Feed -->
+            <table class="attendance-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>NAME</th>
+                        <th>DATE</th>
+                        <th>TIME</th>
+                    </tr>
+                </thead>
+            </table>
+            <button class="quit">Quit</button>
+            <p id="attendance-status" style="color: green;"></p> <!-- Added to show attendance status message -->
+        </div>
+    </div>
+</body>
+</html>

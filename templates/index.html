@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Attendence system</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div id="main">
+      <div id="header">
+        <img
+          src="https://www.vishwakarma-group.com/images/logos/VIT-logo.png"
+          alt=""
+        />
+        <i class="fa-solid fa-house" style="margin-left: 20%"></i>
+        <a href="dashboard.html"><i class="fa-solid fa-chart-line"></i></a>
+        <i class="fa-solid fa-clipboard-question"></i>
+        <i class="fa-solid fa-bell"></i>
+        <a href="login.html"
+          ><i class="fa-solid fa-user" style="margin-right: 70px"></i
+        ></a>
+      </div>
+      <div id="strip">
+        <a href="https://www.vit.edu/about/"
+          ><div class="texts"><p>About</p></div></a
+        >
+        <i class="fa-solid fa-angle-down" style="margin-left: -20px"></i>
+        <a href="https://www.vit.edu/#department"
+          ><div class="texts"><p>Departments</p></div></a
+        >
+        <i class="fa-solid fa-angle-down" style="margin-left: -20px"></i>
+        <a href="https://www.vit.edu/undergraduate/"
+          ><div class="texts"><p>Admission</p></div></a
+        >
+        <i class="fa-solid fa-angle-down" style="margin-left: -20px"></i>
+        <a href="https://www.vit.edu/placement/"
+          ><div class="texts"><p>Placements</p></div></a
+        >
+        <i class="fa-solid fa-angle-down" style="margin-left: -20px"></i>
+        <a
+          href="https://www.vit.edu/wp-content/uploads/2024/04/FINAL_FEES_BY_FRA_2023-24.pdf"
+          ><div class="texts"><p>Fees</p></div></a
+        >
+        <i class="fa-solid fa-angle-down" style="margin-left: -20px"></i>
+      </div>
+      <div id="content">
+        <a href="Academic Calendar_FY_A.Y. 2024-25_Sem.I.pdf">
+          <div class="block" id="block1">
+            <img
+              src="https://vierp-test.s3.ap-south-1.amazonaws.com/GI-VIERPLOGO/academics.svg"
+              alt=""
+            />
+            <h4 style="margin-left: 10px">Academic Calander</h4>
+          </div>
+        </a>
+        <a href="/attendance">
+          <div class="block" id="block2">
+            <img
+              src="https://erpstudentmobileapp.s3.ap-south-1.amazonaws.com/Profileicon/attandance.avif"
+              alt=""
+            />
+            <h4 style="margin-left: 60px">Attendance</h4>
+          </div>
+        </a>
+        <a href="Final Syllabus AY 2024-2025 - 23-10-2024.pdf">
+          <div class="block" id="block3">
+            <img
+              src="https://erpstudentmobileapp.s3.ap-south-1.amazonaws.com/Profileicon/form.svg"
+              alt=""
+              style="margin-left: 60px"
+            />
+            <h4 style="margin-left: 70px">Syllabus</h4>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>
+</html>
