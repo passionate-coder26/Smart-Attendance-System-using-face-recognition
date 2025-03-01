@@ -1,48 +1,60 @@
 *{
-    margin:0%;
-    padding:0%;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
-html,body{
+html, body {
     height: 100%;
     width: 100%;
     font-family: Arial, sans-serif;
     background-color: #2f4f4f;
     color: white;
-    margin: 0;
-    padding: 0;
 }
-#heading{
-    text-align: center; 
+
+#heading {
+    text-align: center;
     padding: 20px;
+    font-size: 2.5rem;
+    margin-top: 10px;
 }
+
 .container {
     display: flex;
     justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
     padding: 20px;
 }
+
 .section {
     background-color: white;
     color: black;
     padding: 20px;
     border-radius: 10px;
     width: 45%;
+    margin: 10px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
 .section h2 {
     text-align: center;
-    background-color: black;
+    background-color: #333;
     color: white;
-    padding: 10px;
+    padding: 15px;
     border-radius: 5px;
+    margin-bottom: 20px;
 }
-.section input[type="text"] {
+
+.section input[type="text"],
+.section input[type="password"] {
     width: 100%;
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+
 .section button {
     width: 100%;
     padding: 10px;
@@ -50,30 +62,48 @@ html,body{
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    font-weight: bold;
 }
+
 .section button.clear {
     background-color: #0000ff;
     color: white;
 }
-.section button.take-images, .section button.save-profile, .section button.take-attendance {
+
+.section button.take-images,
+.section button.save-profile,
+.section button.take-attendance {
     background-color: #00bfff;
     color: black;
 }
+
 .section button.quit {
     background-color: #0000ff;
     color: white;
-    justify-content:end;
+    margin-top: 10px;
+    width: auto;
+    margin-left: auto;
 }
+
 .instructions {
     text-align: center;
     margin: 10px 0;
+    font-size: 1rem;
 }
-.attendance-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-.attendance-table th, .attendance-table td {
-    border: 1px solid #ccc;
-    padding: 10px;
-    text-align: left;
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .section {
+        width: 80%;
+        margin: 10px 0;
+    }
+
+    #heading {
+        font-size: 2rem;
+    }
 }
